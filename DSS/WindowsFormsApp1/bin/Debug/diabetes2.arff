@@ -1,0 +1,12 @@
+@relation pima_diabetes
+@attribute 'preg' numeric
+@attribute 'plas' numeric
+@attribute 'pres' numeric
+@attribute 'skin' numeric
+@attribute 'insu' numeric
+@attribute 'mass' numeric
+@attribute 'pedi' numeric
+@attribute 'age' numeric
+@attribute 'class' { tested_negative, tested_positive}
+@data
+7,196,90,0,0,39.8,0.451,41,?
